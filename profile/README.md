@@ -3,12 +3,11 @@
 
 ## What is Frock?
 Frock is an acronym for the following names:
-- **F**elix Entenmann
-- **R**ichard Weller
-- **C**olin Mörbe
-- **K**aan Holat
-
-The 'o' in the middle of Frock is there just to make it look nicer!
+- [**F** elix Entenmann](https://github.com/Felix-Siegfried-Entenmann)
+- [**R** ichard Weller](https://github.com/RichardWeller)
+- **O** just there to make it look and sound better.
+- [**C** olin Mörbe](https://github.com/Colin23)
+- [**K** aan Holat](https://github.com/knht)
 
 ## About us
 We are a passionate group of university graduates who share a love for programming and software development. Our mission is to create entertaining open-source projects, and we hope our creations spark the interest of fellow enthusiasts.
